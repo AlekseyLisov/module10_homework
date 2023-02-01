@@ -1,0 +1,61 @@
+.title {
+  text-align:center;
+  font-size:30px
+}
+
+.chat {
+  width:450px;
+  height:450px;
+  background-color: rgb(222, 222, 234);
+  margin: 0 auto;
+  border-radius: 5px;
+}
+
+.input {
+  width:190px;
+  height:15px;
+  margin: 10px 10px;
+  padding: 5px 5px;
+  border: 3px solid rgba(50, 50, 225);
+  border-radius: 5px;
+  box-shadow: 0 5px 30px 0 rgba(0,0,0,0.2);
+}
+
+.btn_submit {
+  width:95px;
+  height:30px;
+  margin: 5px 5px;
+  padding: 5px 5px;
+  background-color: rgb(50, 50, 225);
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  border: rgb(50, 50, 225);
+  cursor: pointer;
+
+}
+
+.btn_geo {
+  width:95px;
+  height:30px;
+  margin: 5px 5px;
+  padding: 5px 5px;
+  background-color: rgb(50, 50, 225);
+  color: white;
+  font-size: 16px;
+  border-radius: 5px;
+  border: rgb(50, 50, 225);
+  cursor: pointer;
+}
+
+.output {
+  background-color: white;
+  width: 425px;
+  height: 385px;
+  margin: 0 auto;
+  border: 2px solid rgb(50, 50, 225) ;
+  border-radius: 5px;
+  display: block;
+  box-shadow: 0 0 5px 0 rgba(0,0,0,0.2);
+  overflow: auto;
+}
